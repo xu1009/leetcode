@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://D:/webproject/simpleSSM" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../shiro-example-master/shiro-example-master/shiro-example-chapter15-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../sogou-polaris-2.0.0-echo-sample (1)" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../sogou-polaris-2.0.0-echo-sample (1)/samples/echo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../thrift-all-master/thrift-all-master" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../thrift-all-master/thrift-all-master/thrift-demo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../thrift-all-master/thrift-all-master/thrift-pool" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../thrift-all-master/thrift-all-master/thrift-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../thrift-all-master/thrift-all-master/thrift-spring" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../thrift-all-master/thrift-all-master/thrift-springboot" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../thrift-all-master/thrift-all-master/thrift-zookeeper-rpc" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+  </component>
+</project>

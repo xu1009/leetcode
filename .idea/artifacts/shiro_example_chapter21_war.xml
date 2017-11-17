@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="shiro-example-chapter21:war">
+    <output-path>$PROJECT_DIR$/../shiro-example-master/shiro-example-master/shiro-example-chapter21/target</output-path>
+    <root id="archive" name="chapter21.war">
+      <element id="artifact" artifact-name="shiro-example-chapter21:war exploded" />
+    </root>
+  </artifact>
+</component>

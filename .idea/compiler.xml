@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AjcSettings">
+    <option name="ajcPath" value="$MAVEN_REPOSITORY$/org/aspectj/aspectjtools/1.6.11/aspectjtools-1.6.11.jar" />
+    <option name="delegateToJavac" value="true" />
+  </component>
+  <component name="CompilerConfiguration">
+    <option name="DEFAULT_COMPILER" value="Eclipse" />
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="shiro-example-chapter10" />
+        <module name="shiro-example-chapter11" />
+        <module name="shiro-example-chapter12" />
+        <module name="shiro-example-chapter13" />
+        <module name="shiro-example-chapter14" />
+        <module name="shiro-example-chapter15-client" />
+        <module name="shiro-example-chapter15-server" />
+        <module name="shiro-example-chapter16" />
+        <module name="shiro-example-chapter17-client" />
+        <module name="shiro-example-chapter17-server" />
+        <module name="shiro-example-chapter18" />
+        <module name="shiro-example-chapter19" />
+        <module name="shiro-example-chapter2" />
+        <module name="shiro-example-chapter20" />
+        <module name="shiro-example-chapter21" />
+        <module name="shiro-example-chapter22" />
+        <module name="shiro-example-chapter23-app1" />
+        <module name="shiro-example-chapter23-app2" />
+        <module name="shiro-example-chapter23-client" />
+        <module name="shiro-example-chapter23-core" />
+        <module name="shiro-example-chapter23-nginx" />
+        <module name="shiro-example-chapter23-server" />
+        <module name="shiro-example-chapter24" />
+        <module name="shiro-example-chapter3" />
+        <module name="shiro-example-chapter4" />
+        <module name="shiro-example-chapter5" />
+        <module name="shiro-example-chapter6" />
+        <module name="shiro-example-chapter7" />
+        <module name="shiro-example-chapter8" />
+        <module name="shiro-example-chapter9" />
+        <module name="thrift-demo" />
+        <module name="thrift-pool" />
+        <module name="thrift-service" />
+        <module name="thrift-spring" />
+        <module name="thrift-springboot" />
+        <module name="thrift-zookeeper-rpc" />
+        <module name="tst" />
+        <module name="velocity" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="shiro-example" target="1.5" />
+      <module name="shiro-example-chapter10" target="1.5" />
+      <module name="shiro-example-chapter11" target="1.5" />
+      <module name="shiro-example-chapter12" target="1.5" />
+      <module name="shiro-example-chapter13" target="1.5" />
+      <module name="shiro-example-chapter14" target="1.5" />
+      <module name="shiro-example-chapter15-client" target="1.5" />
+      <module name="shiro-example-chapter15-server" target="1.6" />
+      <module name="shiro-example-chapter16" target="1.5" />
+      <module name="shiro-example-chapter17-client" target="1.5" />
+      <module name="shiro-example-chapter17-server" target="1.5" />
+      <module name="shiro-example-chapter18" target="1.5" />
+      <module name="shiro-example-chapter19" target="1.5" />
+      <module name="shiro-example-chapter2" target="1.6" />
+      <module name="shiro-example-chapter20" target="1.5" />
+      <module name="shiro-example-chapter21" target="1.5" />
+      <module name="shiro-example-chapter22" target="1.5" />
+      <module name="shiro-example-chapter23-app1" target="1.5" />
+      <module name="shiro-example-chapter23-app2" target="1.5" />
+      <module name="shiro-example-chapter23-client" target="1.5" />
+      <module name="shiro-example-chapter23-core" target="1.5" />
+      <module name="shiro-example-chapter23-nginx" target="1.5" />
+      <module name="shiro-example-chapter23-pom" target="1.5" />
+      <module name="shiro-example-chapter23-server" target="1.5" />
+      <module name="shiro-example-chapter24" target="1.5" />
+      <module name="shiro-example-chapter3" target="1.5" />
+      <module name="shiro-example-chapter4" target="1.5" />
+      <module name="shiro-example-chapter5" target="1.5" />
+      <module name="shiro-example-chapter6" target="1.5" />
+      <module name="shiro-example-chapter7" target="1.5" />
+      <module name="shiro-example-chapter8" target="1.5" />
+      <module name="shiro-example-chapter9" target="1.5" />
+      <module name="thrift-all" target="1.5" />
+      <module name="thrift-demo" target="1.6" />
+      <module name="thrift-pool" target="1.5" />
+      <module name="thrift-service" target="1.8" />
+      <module name="thrift-spring" target="1.8" />
+      <module name="thrift-springboot" target="1.8" />
+      <module name="thrift-zookeeper-rpc" target="1.6" />
+      <module name="tst" target="1.7" />
+      <module name="velocity" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="RmicSettings">
+    <option name="GENERATE_IIOP_STUBS" value="true" />
+  </component>
+</project>

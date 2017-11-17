@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://D:/webproject/simpleSSM" />
+    <file type="web" url="file://$PROJECT_DIR$/../shiro-example-master/shiro-example-master/shiro-example-chapter10" />
+    <file type="web" url="file://$PROJECT_DIR$/../shiro-example-master/shiro-example-master/shiro-example-chapter12" />
+    <file type="web" url="file://$PROJECT_DIR$/../shiro-example-master/shiro-example-master/shiro-example-chapter13" />
+    <file type="web" url="file://$PROJECT_DIR$/../shiro-example-master/shiro-example-master/shiro-example-chapter14" />
+    <file type="web" url="file://$PROJECT_DIR$/../shiro-example-master/shiro-example-master/shiro-example-chapter15-client" />
+    <file type="web" url="file://$PROJECT_DIR$/../shiro-example-master/shiro-example-master/shiro-example-chapter15-server" />
+    <file type="web" url="file://$PROJECT_DIR$/../shiro-example-master/shiro-example-master/shiro-example-chapter16" />
+    <file type="web" url="file://$PROJECT_DIR$/../shiro-example-master/shiro-example-master/shiro-example-chapter17-client" />
+    <file type="web" url="file://$PROJECT_DIR$/../shiro-example-master/shiro-example-master/shiro-example-chapter17-server" />
+    <file type="web" url="file://$PROJECT_DIR$/../shiro-example-master/shiro-example-master/shiro-example-chapter18" />
+    <file type="web" url="file://$PROJECT_DIR$/../shiro-example-master/shiro-example-master/shiro-example-chapter19" />
+    <file type="web" url="file://$PROJECT_DIR$/../shiro-example-master/shiro-example-master/shiro-example-chapter21" />
+    <file type="web" url="file://$PROJECT_DIR$/../shiro-example-master/shiro-example-master/shiro-example-chapter22" />
+    <file type="web" url="file://$PROJECT_DIR$/../shiro-example-master/shiro-example-master/shiro-example-chapter24" />
+    <file type="web" url="file://$PROJECT_DIR$/../shiro-example-master/shiro-example-master/shiro-example-chapter7" />
+    <file type="web" url="file://$PROJECT_DIR$/../shiro-example-master/shiro-example-master/shiro-example-chapter8" />
+    <file type="web" url="file://$PROJECT_DIR$/../shiro-example-master/shiro-example-master/shiro-example-chapter9" />
+    <file type="web" url="file://$PROJECT_DIR$" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="D:/webproject/simpleSSM/pom.xml" />
+        <option value="$PROJECT_DIR$/../thrift-all-master/thrift-all-master/pom.xml" />
+        <option value="$PROJECT_DIR$/../shiro-example-master/shiro-example-master/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+  <component name="WebServicesPlugin" addRequiredLibraries="true" />
+</project>

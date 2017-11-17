@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Maven: com.octo.captcha:jcaptcha-integration-simple-servlet:2.0-alpha-1">
+    <CLASSES />
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/octo/captcha/jcaptcha-integration-simple-servlet/2.0-alpha-1/jcaptcha-integration-simple-servlet-2.0-alpha-1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/octo/captcha/jcaptcha-integration-simple-servlet/2.0-alpha-1/jcaptcha-integration-simple-servlet-2.0-alpha-1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
